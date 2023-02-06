@@ -2,13 +2,13 @@
 
 ![logo](./assets/logo.svg)
 
-官网：<https://www.dghire.com/>
-
 [English](./README.md) | 简体中文
 
 </div>
 
 # [DG.hire](https://www.dghire.com/)
+
+官网：https://www.dghire.com
 
 > DG.hire | 一站式全球雇佣平台 | 全球雇佣, 海外落地, 海外雇佣, 灵活用工, 薪酬服务, 合规咨询, 海外猎头, 全球招聘, 合同合规, 海外用工, eor, contractor, payroll
 
