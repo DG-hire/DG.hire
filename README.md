@@ -16,4 +16,11 @@ DG.hire providing human resources services in 150 countries worldwide, helping c
 
 # Content Center
 - [Global Employment Guide](https://dghire.com/resource/global)
-- [Employee Cost Calculator](https://dghire.com/resource/acc-calculator)
+- [Employee Cost Calculator](https://dghire.com/resource/cost-calculator)
+- [Actual salary calculator](https://dghire.com/resource/wage-calculator)
+- [Global Salary Insight Tool](https://dghire.com/resource/compensation-insight-tool)
+- [Labor and Employment Regulations](https://dghire.com/resource/global/global/labor-employment-regulations)
+- [Corporate Taxation](https://dghire.com/resource/global/global/corporate-tax)
+- [Government departments and relevant institutions](https://dghire.com/resource/global/global/government-departments-relevant-institutions)
+- [Banks and insurance companies](https://dghire.com/resource/global/global/banks-insurance-companies)
+- [Ranking List of Overseas Countries (Regions) of Enterprises](https://dghire.com/rank-list)

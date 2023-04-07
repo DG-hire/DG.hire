@@ -16,4 +16,11 @@ DG.hire在全球150个国家提供人力资源服务，帮助企业快速招聘�
 
 # 资源中心
 - [全球雇佣指南](https://dghire.com/resource/global)
-- [员工成本计算器](https://dghire.com/resource/acc-calculator)
+- [雇佣成本计算器](https://dghire.com/resource/cost-calculator)
+- [实得工资计算器](https://dghire.com/resource/wage-calculator)
+- [全球薪资洞察工具](https://dghire.com/resource/compensation-insight-tool)
+- [劳动就业法规](https://dghire.com/resource/global/global/labor-employment-regulations)
+- [企业税收](https://dghire.com/resource/global/global/corporate-tax)
+- [政府部门和相关机构](https://dghire.com/resource/global/global/government-departments-relevant-institutions)
+- [银行和保险公司](https://dghire.com/resource/global/global/banks-insurance-companies)
+- [企业出海国别（地区）排行榜](https://dghire.com/rank-list)
